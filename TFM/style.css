@@ -1,0 +1,13 @@
+body{
+    background-color: #011724;
+}
+#inicio{
+    display: flex;
+    justify-content: end;
+    padding: 30px;
+    gap:  70px;
+    border-radius: 10px;
+    height: auto;
+    color: white;
+    
+}
